@@ -1,0 +1,17 @@
+/* Sass file that assigns colors to body, p and background to body, h2 */
+
+$text-color: #3D3D3D;
+$backgr-color: #6D6D6D;
+
+body {
+  color: $text-color;
+  background-color: $backgr-color;
+}
+
+p {
+  color: $text-color;
+}
+
+h2 {
+  background-color: $backgr-color;
+}
